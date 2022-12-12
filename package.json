@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "git-basics-ooo",
+=======
+  "name": "git-task",
+>>>>>>> origin/master
   "version": "1.0.0",
   "description": "A boilerplate for the Git Basics course in Booost",
   "main": "index.js",
